@@ -1,0 +1,25 @@
+---
+title: "J.D. Dato"
+about:
+  template: trestles
+  image: pic.jpg
+  links:
+    - icon: envelope-paper-fill
+      text: Academic Email
+      href: mailto:jdato@usf.edu
+    - icon: envelope-paper-heart-fill
+      text: Personal Email
+      href: mailto:jddato2@icloud.com
+    - icon: github
+      text: Github
+      href: https://github.com/jd-dato
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/jd.dato
+---
+
+J.D. Dato is an undergraduate Psychology student who creates data visualizations.
+
+
+
+

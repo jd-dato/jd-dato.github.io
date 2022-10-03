@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "J.D. Dato"
+
+
+
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+
+
