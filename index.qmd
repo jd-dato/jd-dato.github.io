@@ -1,7 +1,7 @@
 ---
 title: "J.D. Dato"
 about:
-  template: trestles
+  template: solana
   image: pic.jpg
   links:
     - icon: envelope-paper-fill
@@ -20,6 +20,14 @@ about:
 
 J.D. Dato is an undergraduate Psychology student who creates data visualizations.
 
+# Education
 
+**University of South Florida**| B.A. Psychology    
+Aug 2020 - Present
+
+# Skills
+
+- Python 3: I can use Python 3 with the appropiate packages to analyze data and create visualizations.
+- MatPlotLib: I can use this common package to create visualizations of a variety of kinds of data
 
 
