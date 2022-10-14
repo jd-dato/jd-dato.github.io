@@ -7,6 +7,8 @@ website:
   navbar: 
     right: 
           - blog.qmd
+          - text: Example Work
+            href: https://jd-dato.github.io/kratomandcrime
           
 
 
