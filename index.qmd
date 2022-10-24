@@ -36,8 +36,8 @@ Aug 2020 - Present
 
 # What I am currently learning:
 
-R
-: Python is a great language for data analysis. But in niche scenarios, it is more likely to find packages and resources for the R language. That's why I think it is important that I strive for mastery in R, so I can be prepared for any situation.
+Rayshader
+: Rayshader is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion.
 
 SQL
 : SQL is essential to database management. Being able to manage and interact with databases is essential to data analysis, but also to other areas, such as managing a website or app. 
