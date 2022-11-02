@@ -2,13 +2,20 @@ project:
   type: website
 
 website:
+  search: false
   title: "J.D. Dato"
   google-analytics: G-G784B87NV2
   navbar: 
-    right: 
-          - blog.qmd
-          - text: Example Work
-            href: https://jd-dato.github.io/kratomandcrime
+    right:
+      - blog.qmd
+      - text: "Example Work"
+        menu:
+          - text: "Kratom and Crime"
+            href: https://jd-dato.github.io/kratomandcrime/
+          - text: 'Mental Health in Tech Workers Machine Learning'
+            href: https://jd-dato.github.io/techworkermentalhealth
+
+
           
 
 

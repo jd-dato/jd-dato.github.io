@@ -18,7 +18,7 @@ about:
       href: https://instagram.com/jd.dato
 ---
 
-J.D. Dato is an undergraduate Psychology student who creates data visualizations.
+J.D. Dato is an undergraduate Psychology student interested in Psychological Data Science and Data Visualization.
 
 # Education
 
