@@ -6,11 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="J.D. Dato">
-<meta name="dcterms.date" content="2022-10-06">
-<meta name="description" content="R is more versatile than you think">
 
-<title>J.D. Dato - This WEBSITE was made with R!?</title>
+<title>J.D. Dato - my blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -26,19 +23,31 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -51,6 +60,35 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-G784B87NV2"></script>
 
 <script type="text/javascript">
@@ -61,8 +99,9 @@ gtag('js', new Date());
 gtag('config', 'G-G784B87NV2', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -72,7 +111,7 @@ gtag('config', 'G-G784B87NV2', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">J.D. Dato</span>
     </a>
   </div>
@@ -82,93 +121,84 @@ gtag('config', 'G-G784B87NV2', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../blog.html">Blog</a>
+    <a class="nav-link active" href="./blog.html" aria-current="page">my blog</a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-example-work" role="button" data-bs-toggle="dropdown" aria-expanded="false">Example Work</a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-example-work">    
-        <li>
-    <a class="dropdown-item" href="https://jd-dato.github.io/kratomandcrime/">
- <span class="dropdown-text">Kratom and Crime</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="https://jd-dato.github.io/kratomandcrime">Example Work</a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="https://jd-dato.github.io/techworkermentalhealth">
- <span class="dropdown-text">Mental Health in Tech Workers Machine Learning</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
+              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page">
+      <h1 class="title">my blog</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#what-is-r" id="toc-what-is-r" class="nav-link active" data-scroll-target="#what-is-r">What is R?</a></li>
-  <li><a href="#what-is-quarto" id="toc-what-is-quarto" class="nav-link" data-scroll-target="#what-is-quarto">What is Quarto</a></li>
-  <li><a href="#this-site" id="toc-this-site" class="nav-link" data-scroll-target="#this-site">This Site</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">This WEBSITE was made with R!?</h1>
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1665028800000" data-listing-file-modified-sort="1665094732574" data-listing-reading-time-sort="0.915">
+<div class="thumbnail">
+<p><a href="./posts/QuartoSite/index.html"> <img src="./posts/QuartoSite/icon.png" class="thumnail-image"> </a></p>
 </div>
+<div class="body">
+<a href="./posts/QuartoSite/index.html">
+<h3 class="no-anchor listing-title">
+This WEBSITE was made with R!?
+</h3>
+<div class="listing-subtitle">
 
-<div>
-  <div class="description">
-    R is more versatile than you think
-  </div>
 </div>
-
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>J.D. Dato </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">October 6, 2022</p>
-    </div>
-  </div>
-    
-  </div>
-  
-
-</header>
-
-<section id="what-is-r" class="level1">
-<h1>What is R?</h1>
-<p>R is quickly becoming the go to programming language for Data Analysis. Scholars with no background in Computer Science are able to grasp R because it is syntactically simple compared to other languages. Although there is some learning curve, compared to SPSS and Excel, it is easier to clean, analyze, and <strong>Visualize</strong> data.</p>
-</section>
-<section id="what-is-quarto" class="level1">
-<h1>What is Quarto</h1>
-<p>Quarto is an additional program designed to compliment R. It uses R’s markdown feature, which allows you to create documents, such as journal articles, while integrating charts/graphs directly from R. Quarto takes this a step further and allows you to write books, websites, and other documents using R. This means that scholars who are familiar with the R language can create their own custom websitesR.</p>
-</section>
-<section id="this-site" class="level1">
-<h1>This Site</h1>
-<p>This files for this site are available on my Github for all to see. When you view the <code>.qmd</code> files, you can see exactly what I have to type in order to <em>program</em> this website. In future posts, I hope to create easy to follow tutorials, so that I can help academics make personal websites and blogs just like this one!</p>
-
-
-</section>
-
-</main> <!-- /main -->
+<div class="listing-description">
+<p>R is more versatile than you think</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/QuartoSite/index.html">
+<div class="listing-date">
+Oct 6, 2022
+</div>
+<div class="listing-author">
+J.D. Dato
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
