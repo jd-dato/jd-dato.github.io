@@ -1,8 +1,9 @@
 ---
 title: "J.D. Dato"
 about:
-  template: trestles
+  template: solana
   image: pic.jpg
+  image-shape: rounded
   links:
     - icon: envelope-paper-fill
       text: Academic Email
@@ -23,15 +24,16 @@ J.D. Dato is an undergraduate Psychology student interested in Psychological Dat
 # Education
 
 **University of South Florida**| B.A. Psychology    
-Aug 2020 - Present
+Aug 2021 - Present
 
 # Skills
 
-* Python 3: I have intermediate experience using the third version of the Python language.
+* **R** : I am very comfortable using R to perform data analysis, create visualizations, and for other purposes. This website, for example, was created using R Markdown, a document creation tool. See the "My Work" section to see projects I have made using R.
+* **Python 3** : I have intermediate experience using the third version of the Python language.
   + MatPlotLib: I can use this common Python package to plot data quickly from large data sets
   + PANDAS: I can use this python to create tables and clean data
-* Linux: I operate my own home-lab server which has given me basic knowledge of how to maintain and set-up Linux servers using the command line.
-* R Markdown/Quarto: Sometimes you need to display data in a document, book, or even a website like this one. I can use R markdown to take a large data set and turn it into a pleasing graph anywhere you'd like, and quickly.
+* **Linux**: I operate my own home-lab server which has given me basic knowledge of how to maintain and set-up Linux servers using the command line.
+
 
 
 # What I am currently learning:
