@@ -1,0 +1,23 @@
+---
+title: "Machine Learning in Psychology"
+image: icon.png
+description: "Machine Learning goes where no theories could..."
+author: "J.D. Dato"
+date: "11/22/2022"
+---
+
+# Machine Learning
+
+Machine Learning is an emerging method in not only Computer Science but also the Psychological Sciences. Allowing artificial intelligence to parse over data and then make predictions after training will advance the field in more ways than imaginable.
+
+# Compelling Real World Example
+## Veterans and Suicidality
+
+I want to draw from one article discussing how Veterans Administration researchers used Machine Learning (ML) to save lives. In this article, researchers used over 61 variables and an actual data set of veterans to predict which veterans would be a potential high-suicide risk reliably. This model was tested at a VA Healthcare System.
+
+## Machine Learning Beats Clinicians
+
+This model predicted veterans who were 30~60 times more likely to engage in suicidal behaviors than others in a sample. Within this sample, clinicians could only identify 30% of veterans that the ML model predicted would be a risk. ML can miss the often hidden warning signs of suicide because it knows where to look.
+
+## Citation
+Reger, G. M., McClure, M. L., Ruskin, D., Carter, S. P., & Reger, M. A. (2019). Integrating predictive modeling into mental health care: An example in suicide prevention. Psychiatric Services, 70(1), 71–74. https://doi.org/10.1176/appi.ps.201800242

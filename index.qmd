@@ -23,25 +23,22 @@ J.D. Dato is an undergraduate Psychology student interested in Psychological Dat
 
 # Education
 
-**University of South Florida**| B.A. Psychology    
+**University of South Florida**| B.A. Psychology   
 Aug 2021 - Present
 
 # Skills
 
-* **R** : I am very comfortable using R to perform data analysis, create visualizations, and for other purposes. This website, for example, was created using R Markdown, a document creation tool. See the "My Work" section to see projects I have made using R.
-* **Python 3** : I have intermediate experience using the third version of the Python language.
-  + MatPlotLib: I can use this common Python package to plot data quickly from large data sets
-  + PANDAS: I can use this python to create tables and clean data
-* **Linux**: I operate my own home-lab server which has given me basic knowledge of how to maintain and set-up Linux servers using the command line.
+* **R** : I am very comfortable using R to analyze data, create visualizations, and other purposes. This website, for example, was created using R Markdown, a document creation tool based on R. See the "My Work" section to see projects I have made using R.
+* **Python 3** : I am familiar with using Python to create meaningful visualizations, fundamental data analysis, and for scripting/automation. I am also learning how to use Sci-Kit Learn for machine learning.
+* **Linux**: I operate my own home-lab server which has given me basic knowledge of how to maintain and set-up Linux servers using the command line. This includes implementing measures to protect the data on my server from outside attacks.
 
 
 
 # What I am currently learning:
 
 Rayshader
-: Rayshader is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion.
+: [Rayshader](https://www.rayshader.com) is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion.
 
-SQL
-: SQL is essential to database management. Being able to manage and interact with databases is essential to data analysis, but also to other areas, such as managing a website or app. 
+
 
 
