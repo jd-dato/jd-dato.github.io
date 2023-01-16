@@ -2,7 +2,7 @@
 title: "J.D. Dato"
 about:
   template: solana
-  image: pic.jpg
+  image: profile_pic-2.avif
   image-shape: rounded
   links:
     - icon: envelope-paper-fill
