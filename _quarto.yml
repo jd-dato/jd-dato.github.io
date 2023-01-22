@@ -12,9 +12,8 @@ website:
         menu:
           - text: "Kratom and Crime"
             href: https://jd-dato.github.io/kratomandcrime/
-          - text: 'Mental Health in Tech Workers Machine Learning'
-            href: https://jd-dato.github.io/techworkermentalhealth
-
+          - text: "R Packaged I've Developed"
+            href: https://github.com/jd-dato/QualtricsDaysInStudy
 
           
 

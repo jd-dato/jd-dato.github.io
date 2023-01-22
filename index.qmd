@@ -19,22 +19,24 @@ about:
       href: https://instagram.com/jd.dato
 ---
 
-J.D. Dato is an undergraduate Psychology student interested in Psychological Data Science and Data Visualization.
+J.D. Dato is an undergraduate psychology student interested in Quantitative and Clinical Psychology.
 
-# Education
+I currently work as a research assistant at USF's ART (Addiction Research and Treatment) lab.
+
+## Education
 
 **University of South Florida**| B.A. Psychology   
 Aug 2021 - Present
 
-# Skills
+## Technical Skills
 
-* **R** : I am very comfortable using R to analyze data, create visualizations, and other purposes. This website, for example, was created using R Markdown, a document creation tool based on R. See the "My Work" section to see projects I have made using R.
-* **Python 3** : I am familiar with using Python to create meaningful visualizations, fundamental data analysis, and for scripting/automation. I am also learning how to use Sci-Kit Learn for machine learning.
-* **Linux**: I operate my own home-lab server which has given me basic knowledge of how to maintain and set-up Linux servers using the command line. This includes implementing measures to protect the data on my server from outside attacks.
+* **R** : I am comfortable using R to transform, visualize, and model data. I've also used R for non-data purposes, such as developing this website with R markdown. I have also developed libraries for R for anyone to use.
+* **Python 3** : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday *data science* libraries that are made for the Python language.
+* **Linux**: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line. This includes implementing security measures to prevent data from being compromised and protecting against other common cyber-attacks.
 
 
 
-# What I am currently learning:
+## What I am currently learning:
 
 Rayshader
 : [Rayshader](https://www.rayshader.com) is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion.

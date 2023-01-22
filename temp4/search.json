@@ -39,28 +39,7 @@
     "href": "index.html",
     "title": "J.D. Dato",
     "section": "",
-    "text": "J.D. Dato is an undergraduate psychology student interested in Quantitative and Clinical Psychology.\nI currently work as a research assistant at USF’s ART (Addiction Research and Treatment) lab."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "J.D. Dato",
-    "section": "Education",
-    "text": "Education\nUniversity of South Florida| B.A. Psychology\nAug 2021 - Present"
-  },
-  {
-    "objectID": "index.html#technical-skills",
-    "href": "index.html#technical-skills",
-    "title": "J.D. Dato",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nR : I am comfortable using R to transform, visualize, and model data. I’ve also used R for non-data purposes, such as developing this website with R markdown. I have also developed libraries for R for anyone to use.\nPython 3 : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday data science libraries that are made for the Python language.\nLinux: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line. This includes implementing security measures to prevent data from being compromised and protecting against other common cyber-attacks."
-  },
-  {
-    "objectID": "index.html#what-i-am-currently-learning",
-    "href": "index.html#what-i-am-currently-learning",
-    "title": "J.D. Dato",
-    "section": "What I am currently learning:",
-    "text": "What I am currently learning:\n\nRayshader\n\nRayshader is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion."
+    "text": "Education\nUniversity of South Florida| B.A. Psychology\nAug 2021 - Present\n\n\nSkills\n\nR : I am very comfortable using R to analyze data, create visualizations, and other purposes. This website, for example, was created using R Markdown, a document creation tool based on R. See the “My Work” section to see projects I have made using R.\nPython 3 : I am familiar with using Python to create meaningful visualizations, fundamental data analysis, and for scripting/automation. I am also learning how to use Sci-Kit Learn for machine learning.\nLinux: I operate my own home-lab server which has given me basic knowledge of how to maintain and set-up Linux servers using the command line. This includes implementing measures to protect the data on my server from outside attacks.\n\n\n\nWhat I am currently learning:\n\nRayshader\n\nRayshader is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion."
   },
   {
     "objectID": "blog.html",
