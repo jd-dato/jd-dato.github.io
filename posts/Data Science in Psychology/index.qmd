@@ -8,7 +8,7 @@ date: "11/22/2022"
 
 # Machine Learning
 
-Machine Learning is an emerging method in not only Computer Science but also the Psychological Sciences. Allowing artificial intelligence to parse over data and then make predictions after training will advance the field in more ways than imaginable.
+Machine Learning is an emerging method in not only Computer Science but also in the Psychological Sciences. Allowing artificial intelligence to parse over data and then make predictions after training will advance the field in more ways than imaginable.
 
 # Compelling Real World Example
 ## Veterans and Suicidality

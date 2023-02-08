@@ -18,6 +18,10 @@ about:
       text: Instagram
       href: https://instagram.com/jd.dato
 ---
+<meta
+  name="description"
+  content="J.D. Joseph Dato psychology student Tampa Florida University of South Florida">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 J.D. Dato is an undergraduate psychology student interested in Quantitative and Clinical Psychology.
 

@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  search: false
+  search: true
   title: "J.D. Dato"
   google-analytics: G-G784B87NV2
   navbar: 
@@ -12,7 +12,7 @@ website:
         menu:
           - text: "Kratom and Crime"
             href: https://jd-dato.github.io/kratomandcrime/
-          - text: "R Packaged I've Developed"
+          - text: "R Packages I've Developed"
             href: https://github.com/jd-dato/QualtricsDaysInStudy
 
           
