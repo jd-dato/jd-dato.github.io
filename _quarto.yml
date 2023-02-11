@@ -8,6 +8,8 @@ website:
   navbar: 
     right:
       - blog.qmd
+      - text: "Art In R"
+        href: https://jd-dato.github.io/GenerativeArtProjects
       - text: "Example Work"
         menu:
           - text: "Kratom and Crime"
