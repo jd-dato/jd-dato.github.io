@@ -56,13 +56,6 @@
     "text": "Technical Skills\n\nR : I am comfortable using R to transform, visualize, and model data. I’ve also used R for non-data purposes, such as developing this website with R markdown. I have also developed libraries for R for anyone to use.\nPython 3 : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday data science libraries that are made for the Python language.\nLinux: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line. This includes implementing security measures to prevent data from being compromised and protecting against other common cyber-attacks."
   },
   {
-    "objectID": "index.html#current-open-source-projects-coming-soon",
-    "href": "index.html#current-open-source-projects-coming-soon",
-    "title": "J.D. Dato",
-    "section": "Current Open Source Projects (Coming Soon:)",
-    "text": "Current Open Source Projects (Coming Soon:)\nQualtrics Ecological Momentary Assesment : I am creating a Python-based tool to help researchers manage EMA surveys with rolling enrollment. That way, surveys will be sent out to participants at the appropriate time and to the relevant phone numbers. After a set duration, participants will no longer receive survey links. This tool will also allow researchers to automatically send out reminder links to participants who have not completed the survey in the past 2 hours. This tool will be open-source and free to use.\nIf you are interested in becoming a contributor of this project, please contact me at the personal email listed above."
-  },
-  {
     "objectID": "index.html#what-i-am-currently-learning",
     "href": "index.html#what-i-am-currently-learning",
     "title": "J.D. Dato",
