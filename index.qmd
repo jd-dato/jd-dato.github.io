@@ -1,7 +1,8 @@
 ---
 title: "J.D. Dato"
 about:
-  template: solana
+  id: hero-heading
+  template: trestles
   image: profile_pic-1.jpg
   image-shape: rounded
   links:
@@ -14,13 +15,11 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/jd-dato
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com/jd.dato
     - icon: filetype-pdf
       text: CV
       href: https://usf.box.com/s/6j4kf573nc60svzwqgtuejverk84wv9e
 ---
+
 <meta
   name="description"
   content="J.D. Joseph Dato psychology student Tampa Florida University of South Florida">
@@ -37,6 +36,7 @@ Precision Mental Health, Suicidality, LGBTQ+ Mental Health, Substance Use Disord
 
 **University of South Florida**| B.A. Psychology   
 Aug 2021 - Present
+
 
 ## Technical Skills
 
