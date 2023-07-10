@@ -24,8 +24,8 @@ website:
 
 format:
   html:
-    theme: solar
-    css: styles.css
+    theme:
+      - solar
     toc: true
 
 
