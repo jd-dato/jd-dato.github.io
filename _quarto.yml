@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  open-graph: true
   search: true
   title: "J.D. Dato"
   google-analytics: G-G784B87NV2
