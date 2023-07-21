@@ -30,29 +30,28 @@ J.D. Dato is an undergraduate psychology student interested in Software Developm
 I currently work as a research assistant at USF's [Addiction Research and Treatment Lab](https://ARTLabUSF.github.io).
 
 #### Research Interests
-Precision Mental Health, Psychometric Data Science, and Ecological Momentary Assessment.
+Precision Mental Health, Suicidality, Substance Use Disorders, and Psychometrics
 
 ## Education
 
 **University of South Florida**| B.A. Psychology   
-Aug 2021 - Present
+2023
 
 
 ## Technical Skills
 
 * **R** : I am comfortable using R to transform, visualize, and model data. I've also used R for non-data purposes, such as developing this website with R markdown.
 * **Python** : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday *data science* libraries that are made for the Python language.
-* **Linux**: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line. This includes implementing security measures to prevent data from being compromised and protecting against other common cyber-attacks.
+* **Linux**: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line.
 
 
 
 ## What I am currently learning:
 
-Rayshader
-: [Rayshader](https://www.rayshader.com) is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion.
+
 
 Flask
-: [Flask](https://flask.palletsprojects.com/en/2.0.x/) is a Python library that allows the creation of web applications. I am currently using Flask to create a web application that allows players in a clay shooting tournament to see their scores in real-time.
+: [Flask](https://flask.palletsprojects.com/en/2.3.x/) is a Python microframework for developing web applicaitons. I am currently learning how to use Flask to develop a membership management system for a non-profit organization.
 
 
 
