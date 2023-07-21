@@ -46,21 +46,21 @@
     "href": "index.html#education",
     "title": "J.D. Dato",
     "section": "Education",
-    "text": "Education\nUniversity of South Florida| B.A. Psychology\nAug 2021 - Present"
+    "text": "Education\nUniversity of South Florida| B.A. Psychology\n2023"
   },
   {
     "objectID": "index.html#technical-skills",
     "href": "index.html#technical-skills",
     "title": "J.D. Dato",
     "section": "Technical Skills",
-    "text": "Technical Skills\n\nR : I am comfortable using R to transform, visualize, and model data. I’ve also used R for non-data purposes, such as developing this website with R markdown.\nPython : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday data science libraries that are made for the Python language.\nLinux: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line. This includes implementing security measures to prevent data from being compromised and protecting against other common cyber-attacks."
+    "text": "Technical Skills\n\nR : I am comfortable using R to transform, visualize, and model data. I’ve also used R for non-data purposes, such as developing this website with R markdown.\nPython : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday data science libraries that are made for the Python language.\nLinux: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line."
   },
   {
     "objectID": "index.html#what-i-am-currently-learning",
     "href": "index.html#what-i-am-currently-learning",
     "title": "J.D. Dato",
     "section": "What I am currently learning:",
-    "text": "What I am currently learning:\n\nRayshader\n\nRayshader is a library for R that allows the creation of 3D Data-Visualizaitons. These kinds of visualizations are important because they are the most eye-catching, in my opinion.\n\nFlask\n\nFlask is a Python library that allows the creation of web applications. I am currently using Flask to create a web application that allows players in a clay shooting tournament to see their scores in real-time."
+    "text": "What I am currently learning:\n\nFlask\n\nFlask is a Python microframework for developing web applicaitons. I am currently learning how to use Flask to develop a membership management system for a non-profit organization."
   },
   {
     "objectID": "blog.html",
