@@ -40,8 +40,8 @@ Precision Mental Health, Suicidality, Substance Use Disorders, and Psychometrics
 
 ## Technical Skills
 
-* **R** : I am comfortable using R to transform, visualize, and model data. I've also used R for non-data purposes, such as developing this website with R markdown.
-* **Python** : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday *data science* libraries that are made for the Python language.
+* **R** : I am comfortable using R to transform, visualize, and model data. I've also used R for non-data purposes, such as developing this website with Quarto/RMarkdown.
+* **Python** : I use Python for some data tasks but primarily for automation and writing other scripts. 
 * **Linux**: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line.
 
 
