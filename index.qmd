@@ -17,7 +17,7 @@ about:
       href: https://github.com/jd-dato 
     - icon: filetype-pdf
       text: CV
-      href: https://usf.box.com/s/6j4kf573nc60svzwqgtuejverk84wv9e
+      href: https://usf.box.com/s/rkq8sxug70m3lte1djfs4ejp3mm4g86m
 ---
 
 <meta
