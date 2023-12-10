@@ -35,11 +35,32 @@
     "text": "Citation\nReger, G. M., McClure, M. L., Ruskin, D., Carter, S. P., & Reger, M. A. (2019). Integrating predictive modeling into mental health care: An example in suicide prevention. Psychiatric Services, 70(1), 71–74. https://doi.org/10.1176/appi.ps.201800242"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "J.D. Dato",
+    "section": "",
+    "text": "J.D. Dato is an undergraduate psychology student interested in Software Development and Clinical Psychology.\nI currently work as a research assistant at USF’s Addiction Research and Treatment Lab."
+  },
+  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "J.D. Dato",
     "section": "Education",
-    "text": "Education\nUniversity of South Florida| B.A. Psychology\n2021-2023\nUniversity of South Florida| Graduate Certificate Pathways to Computing 2023-2024"
+    "text": "Education\nUniversity of South Florida| B.A. Psychology\n2023"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "J.D. Dato",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nR : I am comfortable using R to transform, visualize, and model data. I’ve also used R for non-data purposes, such as developing this website with R markdown.\nPython : I use Python for some data tasks but primarily for automation and writing other scripts. When necessary, I can use the everyday data science libraries that are made for the Python language.\nLinux: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line."
+  },
+  {
+    "objectID": "index.html#what-i-am-currently-learning",
+    "href": "index.html#what-i-am-currently-learning",
+    "title": "J.D. Dato",
+    "section": "What I am currently learning:",
+    "text": "What I am currently learning:\n\nFlask\n\nFlask is a Python microframework for developing web applicaitons. I am currently learning how to use Flask to develop a membership management system for a non-profit organization."
   },
   {
     "objectID": "blog.html",
