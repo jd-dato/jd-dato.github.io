@@ -3,7 +3,7 @@ title: "J.D. Dato"
 about:
   id: hero-heading
   template: trestles
-  image: profile_pic-1.jpg
+  image: jd_dato_pfp.jpg
   image-shape: rounded
   links:
     - icon: envelope-paper-fill
@@ -24,10 +24,9 @@ about:
   name="description"
   content="J.D. Joseph Dato psychology student Tampa Florida University of South Florida">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+# Overview
+J.D. Dato is a Graduate Computer Science student interested in using Natural Language Processing and other Machine Learning techniques to improve mental health care. He is currently working as a research assistant at the University of South Florida's [Addiction Research and Treatment Lab](https://ARTLabUSF.github.io).
 
-J.D. Dato is an undergraduate psychology student interested in Software Development and Clinical Psychology.
-
-I currently work as a research assistant at USF's [Addiction Research and Treatment Lab](https://ARTLabUSF.github.io).
 
 #### Research Interests
 Precision Mental Health, Suicidality, Substance Use Disorders, and Psychometrics
@@ -35,23 +34,11 @@ Precision Mental Health, Suicidality, Substance Use Disorders, and Psychometrics
 ## Education
 
 **University of South Florida**| B.A. Psychology   
-2023
+2021-2023
 
-
-## Technical Skills
-
-* **R** : I am comfortable using R to transform, visualize, and model data. I've also used R for non-data purposes, such as developing this website with Quarto/RMarkdown.
-* **Python** : I use Python for some data tasks but primarily for automation and writing other scripts. 
-* **Linux**: I operate my Home Lab server, which has given me the basic knowledge of maintaining and setting up Linux servers using the command line.
-
-
-
-## What I am currently learning:
-
-
-
-Flask
-: [Flask](https://flask.palletsprojects.com/en/2.3.x/) is a Python microframework for developing web applicaitons. I am currently learning how to use Flask to develop a membership management system for a non-profit organization.
+**University of South Florida**| Graduate Certificate [Pathways to Computing](https://www.usf.edu/engineering/cse/graduate/pathway-to-computing-certificate.aspx)
+2023-2024
+ 
 
 
 
